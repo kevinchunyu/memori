@@ -1,0 +1,2 @@
+# memori
+quote, words saver
