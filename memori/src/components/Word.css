@@ -1,0 +1,48 @@
+body {
+    background: #FAF0E6;
+}
+
+#sourceName {
+    width: 20%;
+    overflow-x: scroll;
+}
+
+#sourceData{
+    width: 100%;
+}
+
+.category {
+    height: 35px;
+}
+
+input {
+    width: 100%;
+    background-color: #FAF0E6;
+    border: none;
+}
+
+.thirtyfive {
+    width: 35%;
+}
+
+.ten {
+    width: 10%;
+}
+
+.twentyfive {
+    width: 25%;
+}
+
+table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+#form_data {
+    display: grid;
+    grid-template-columns: 25% 35% 10% 20% 10%;
+}
+
+th {
+    height: 40px;
+}
